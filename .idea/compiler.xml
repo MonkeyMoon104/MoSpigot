@@ -6,14 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spigot" />
         <module name="craftbukkit" />
         <module name="bukkit" />
         <module name="spigot-api" />
+        <module name="mospigot (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="mospigot-api" target="17" />
+      <module name="spigot" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

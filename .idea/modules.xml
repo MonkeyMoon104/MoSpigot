@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CraftBukkit/craftbukkit.iml" filepath="$PROJECT_DIR$/CraftBukkit/craftbukkit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Spigot/MoSpigot-Server/spigot.iml" filepath="$PROJECT_DIR$/Spigot/MoSpigot-Server/spigot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MoSpigot/MoSpigot-Server/mospigot (1).iml" filepath="$PROJECT_DIR$/MoSpigot/MoSpigot-Server/mospigot (1).iml" />
     </modules>
   </component>
 </project>

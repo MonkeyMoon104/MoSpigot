@@ -11,7 +11,7 @@
     <modules>
         <module>Bukkit</module>
         <module>CraftBukkit</module>
-        <module>Spigot/MoSpigot-API</module>
-        <module>Spigot/MoSpigot-Server</module>
+        <module>MoSpigot/MoSpigot-API</module>
+        <module>MoSpigot/MoSpigot-Server</module>
     </modules>
 </project>
